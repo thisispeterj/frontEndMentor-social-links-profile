@@ -87,7 +87,7 @@ a {
     background-color: var(--grey);
     font-weight: 600;
 }
-a:hover {
+a:hover, a:focus {
     background: var(--green);
     color: var(--darkGrey);
 }
